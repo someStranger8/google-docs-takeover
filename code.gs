@@ -1,4 +1,4 @@
-function main() {
+function myFunction() {
   var ui = DocumentApp.getUi();
   var email = ui.prompt("enter email: ");
   var g = DocumentApp.getActiveDocument();
